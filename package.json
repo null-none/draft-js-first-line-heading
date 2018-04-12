@@ -1,7 +1,7 @@
 {
   "name": "draft-js-first-line-heading",
   "version": "1.0.0",
-  "description": "",
+  "description": "The plugin force block style on first line for a heading/title like Medium",
   "main": "src/index.js",
   "repository": {
     "type": "git",
