@@ -1,5 +1,5 @@
 # draft-js-first-line-heading
-The plugin force block style on first line for a heading/title like Medium
+The plugin force block style on first line for a heading/title.
 
 ## Install
 
