@@ -21,10 +21,5 @@ const plugins = [firstLineHeading];
 
 ```
 
-## Example
-
-[![Video demo](https://raw.githubusercontent.com/null-none/draft-js-first-line-heading/master/Preview.png)](https://www.youtube.com/watch?v=C3_UlTk40Nc "Video demo")
-
-
 ## License
 MIT
