@@ -17,6 +17,13 @@ const firstLineHeading = createFirstLineHeadingPLugin();
 
 const plugins = [firstLineHeading];
 
+let lines = this.state.story.getCurrentContent().getPlainText().split('\n');
+let title = lines[0];
+lines.shift();
+let body = lines.join('\n');
+
+console.log(title, body)
+
 ...
 
 ```
